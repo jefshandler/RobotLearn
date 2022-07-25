@@ -23,7 +23,19 @@ MouseActions
     go to       http://dhtmlgoodies.com/scripts/drag-drop-custom/demo-drag-drop-3.html
     maximize browser window
     drag and drop    id:box6    id:box106
-    sleep    3
+    sleep    1
+    drag and drop    id:box1    id:box101
+    sleep    1
+    drag and drop    id:box2    id:box102
+    sleep    1
+    drag and drop    id:box3   id:box103
+    sleep    1
+    drag and drop    id:box4    id:box104
+    sleep    1
+    drag and drop    id:box5    id:box105
+    sleep    1
+    drag and drop    id:box7   id:box107
+    sleep    1
 
     close browser
 
