@@ -2,7 +2,7 @@
 Library     SeleniumLibrary
 
 *** Variables ***
-${url}        http://testautomationpractice.blogspot.com
+${url}        https://testautomationpractice.blogspot.com
 ${browser}    Chrome
 
 *** Test Cases ***
