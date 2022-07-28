@@ -10,7 +10,7 @@ handlingAlerts
         open browser    ${url}      ${browser}
         click element    xpath://*[@id="HTML9"]/div[1]/button    # open alert
         sleep    3 seconds
-#        handle alert    accept    # comando para aceitar o alert
+        handle alert    accept    # comando para aceitar o alert
 #        handle alert    dismiss   # comando para recusar o alert
 #        handle alert    leave     # comando para ignorar o alert
 
